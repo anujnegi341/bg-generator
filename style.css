@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  letter-spacing: 1rem;
+  background: linear-gradient(to right, red, aqua);
+}
+
+h1 {
+  font-size: 5em;
+}
